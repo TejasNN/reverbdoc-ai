@@ -26,3 +26,6 @@ Thumbs.db
 # Uploaded documents and local data
 uploads/
 storage/
+
+# Test coverage
+coverage/
